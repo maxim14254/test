@@ -1,0 +1,7 @@
+C:\Users\Maxim\Desktop\WindowsFormsApp1\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Maxim\Desktop\WindowsFormsApp1\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.csprojAssemblyReference.cache
+C:\Users\Maxim\Desktop\WindowsFormsApp1\WcfServiceLibrary2\bin\Debug\WcfServiceLibrary2.dll.config
+C:\Users\Maxim\Desktop\WindowsFormsApp1\WcfServiceLibrary2\bin\Debug\WcfServiceLibrary2.dll
+C:\Users\Maxim\Desktop\WindowsFormsApp1\WcfServiceLibrary2\bin\Debug\WcfServiceLibrary2.pdb
+C:\Users\Maxim\Desktop\WindowsFormsApp1\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.dll
+C:\Users\Maxim\Desktop\WindowsFormsApp1\WcfServiceLibrary2\obj\Debug\WcfServiceLibrary2.pdb
